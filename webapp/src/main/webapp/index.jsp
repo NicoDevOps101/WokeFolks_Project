@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <h1>WokeFolks Registration</h1>
+      <h1>Testing Registration</h1>
       <form action="/">
         <hr>
         <div class="account-type">
